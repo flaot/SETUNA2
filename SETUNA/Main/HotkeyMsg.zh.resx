@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -135,5 +135,11 @@
   </data>
   <data name="label3.Text" xml:space="preserve">
     <value>您可以重新指定启用另一个键，请打开选项设置。</value>
+  </data>
+  <data name="lblKey.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 9pt, style=Bold</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 10pt, style=Bold</value>
   </data>
 </root>

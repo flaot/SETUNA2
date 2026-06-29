@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -206,5 +206,26 @@
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
     <value>自动操作的装配</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 9pt, style=Bold</value>
+  </data>
+  <data name="txtStyleName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 10pt</value>
+  </data>
+  <data name="listStyleItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>黑体, 10pt</value>
+  </data>
+  <data name="btnItemDelete.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 8.25pt</value>
+  </data>
+  <data name="btnItemDown.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 8.25pt</value>
+  </data>
+  <data name="btnItemUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 8.25pt</value>
+  </data>
+  <data name="listAllStyleItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>黑体, 10pt</value>
   </data>
 </root>
